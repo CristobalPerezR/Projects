@@ -6,6 +6,7 @@ Want to see a better version? [Click here](https://cristobalperezr.github.io/Pro
 
 ## Full-Stack Development
 1. [Cosmic Events](https://github.com/CristobalPerezR/CosmicEvents) (In progress)
+2. [WikiDesk](https://github.com/CristobalPerezR/WikiDesk)
 
 ## Software Engineering
 1. [Batch Orchestration System](https://github.com/CristobalPerezR/Batch-Orchestration-System)
